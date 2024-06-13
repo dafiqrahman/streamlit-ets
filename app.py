@@ -9,6 +9,7 @@ import plotly.express as px
 
 # Judul Aplikasi
 st.title('Analisis Triple Exponential Smoothing')
+st.subheader("Zulaikha Anissa Azfa 24050121140114")
 
 # Input di Sidebar
 st.sidebar.header('Pengaturan Input')
